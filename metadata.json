@@ -1,0 +1,6 @@
+{
+  "name": "SafeRide",
+  "description": "School bus tracking dashboard for parents, drivers, and school administrators with live map tracking, boarding checklists, and fleet management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
